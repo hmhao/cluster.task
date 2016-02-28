@@ -1,0 +1,15 @@
+{
+  "name": "cluster-task",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "cluster-task"
+  },
+  "author": "hmh",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  }
+}
